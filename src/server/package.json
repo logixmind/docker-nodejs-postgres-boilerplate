@@ -1,0 +1,11 @@
+{
+  "name": "docker-nodejs-postgres-boilerplate",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
